@@ -10,3 +10,4 @@
 .showcase-track figcaption{font:500 11px "DM Mono",monospace;text-transform:uppercase;letter-spacing:.08em;padding:12px 0}
 .showcase-hint{margin:22px 9vw 0;font:10px "DM Mono",monospace;text-transform:uppercase;letter-spacing:.1em}
 @media(max-width:760px){.brand-logo img{width:42px;height:42px}.showcase{padding:17vw 0}.showcase-head{display:block;padding:0 7vw 9vw}.showcase-head>p{width:auto;margin-top:25px}.showcase-track{padding-left:7vw;padding-right:7vw;gap:14px}.showcase-track figure{flex-basis:74vw}.showcase-track img{height:111vw}.showcase-hint{margin-left:7vw}}
+.contact-phone{display:table;margin-top:18px;color:var(--ink);font:500 14px "DM Mono",monospace;text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:4px}
